@@ -3,6 +3,7 @@ M. Rafi Cahya Ramadhana / Absen 30
 
 Output Latihan Praktikum 1
 "C:\Program Files\Java\jdk-12.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\lib\idea_rt.jar=7231:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\ASUS\IdeaProjects\Jobsheet 10\out\production\Jobsheet 10" Jobsheet10.LatihanPraktikum01
+
 Masukkan data yang ingin dicari : rafi
 Data ditemukan!!
 
@@ -10,6 +11,7 @@ Process finished with exit code 0
 
 Output Latihan Praktikum 2
 "C:\Program Files\Java\jdk-12.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\lib\idea_rt.jar=7237:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\ASUS\IdeaProjects\Jobsheet 10\out\production\Jobsheet 10" Jobsheet10.LatihanPraktikum02
+
 Masukkan data yang ingin dicari : 35
 Data ditemukan pada indeks ke- 3
 
